@@ -77,6 +77,9 @@ $ cd FlyWay-migrations
 # Install dependencies
 $ mvn clean install
 
+#Run Migrations
+$ mvn clean flyway:migrate -Dflyway.configFiles=flyway.conf
+
 # Run the project
 $ mvn spring-boot:run
 
