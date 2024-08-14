@@ -9,13 +9,13 @@
 <h1 align="center">FlyWay Migrations</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/flyway-migrations-pock?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/leandroMello9/FlyWay-migrations?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/flyway-migrations-pock?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/leandroMello9/FlyWay-migrations?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/flyway-migrations-pock?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leandroMello9/FlyWay-migrations?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/flyway-migrations-pock?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/leandroMello9/FlyWay-migrations?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/flyway-migrations-pock?color=56BEB8" /> -->
 
@@ -69,10 +69,10 @@ As seguintes ferramentas foram utilizadas nesse projeto.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/flyway-migrations-pock
+$ git clone https://github.com/leandroMello9/FlyWay-migrations
 
 # Access
-$ cd flyway-migrations-pock
+$ cd FlyWay-migrations
 
 # Install dependencies
 $ mvn clean install
@@ -83,7 +83,7 @@ $ mvn spring-boot:run
 # The server will initialize in the <http://localhost:8080>
 ```
 
-Feito com carinho :heart: por <a href="https://github.com/leandroJava67" target="_blank">Leandro de melo</a>
+Feito com carinho :heart: por <a href="https://github.com/leandroMello9" target="_blank">Leandro de melo</a>
 
 &#xa0;
 
