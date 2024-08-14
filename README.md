@@ -38,7 +38,7 @@
   <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Iniciando aplicação</a> &#xa0; | &#xa0;
-  <a href="https://github.com/leandroJava67" target="_blank">Criador</a>
+  <a href="https://github.com/leandroMello9" target="_blank">Criador</a>
 </p>
 
 <br>
